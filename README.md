@@ -3,6 +3,7 @@ Crie minha primeira pasta
 
 # Olá, eu sou a Yayas 👋
 
+![Descrição do GIF](![1GIF](https://github.com/user-attachments/assets/ccce71be-8ca1-4107-ac8f-5a15d06c4ecb))
 
 
 Sou estudante de Python e apaixonada por tecnologia! 💻🚀
