@@ -3,7 +3,8 @@ Crie minha primeira pasta
 
 # Olá, eu sou a Yayas 👋
 
-[Cachorro sorrindo](https://file.io/FakeExampleLinkGIF)
+![GIF de programação](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUxZHBxcHF3bWhmNHZzNHY2a3BsZWwzZTI0M3c4b3RhM3kxaTQ3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QvBoMEcQ7DQXK/giphy.gif)
+
 Sou estudante de Python e apaixonada por tecnologia! 💻🚀
 
 ## Sobre mim
